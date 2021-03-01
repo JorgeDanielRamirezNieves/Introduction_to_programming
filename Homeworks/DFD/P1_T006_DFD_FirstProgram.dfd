@@ -6,33 +6,33 @@
 0
 4
 1
-24
-"Hola. ¿Quién es usted?"
+40
+"Hello. Good morning. What's your name?"
 5
 1
-4
-Name
+6
+v_name
 4
 1
-62
-"Un gusto ", name , "; gusto conocerle. ¿Cuántos años tienes?"
+48
+"Nice to meet you ",v_name," . How old are you?"
 5
 1
-3
-Age
+5
+v_age
 7
 0
 1
-7
-age>=18
+9
+v_age >18
 4
 1
-49
-"¿Es menor de edad? No podrá acceder al software"
+47
+"You can't use this software. Your are younger"
 13
 4
 1
-51
-"Es usted mayor de edad. Podrá acceder al software"
+40
+"Welcome to this software. You're adult"
 13
 1

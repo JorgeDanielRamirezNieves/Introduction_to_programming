@@ -6,107 +6,103 @@
 0
 4
 1
-226
-"SOFTAge Comparation Ver 1.0
-
-Maker
-Paula Camila Martínez Porras
-Luis Miguel Romero Benítez
-Jorge Daniel Ramírez Nieves
-
-
-This software will compare two age from year of birth. Input the year of birth for the Person A"
+58
+"SOFTCOMPAREAGE V.1.0. Maker: Jorge Daniel Ramírez Nieves"
+4
+1
+85
+"This software compare birth of two person. Type the year birth of the first person:"
 5
 1
-12
-v_yearbirthA
+7
+v_year1
 4
 1
 43
-"Input the year of birth for the Person B:"
+"Type the year birth of the second person:"
 5
 1
-12
-v_yearbirthB
+7
+v_year2
 7
 0
 1
-19
-v_yearbirthA > 2021
+14
+v_year1 > 2021
 7
 0
 1
-19
-v_yearbirthB > 2021
+14
+v_year2 > 2021
 6
 2
-5
-v_Age
-17
-2021-v_yearbirthA
-5
-v_Bge
-17
-2021-v_yearbirthB
+6
+v_age1
+14
+2021 - v_year1
+6
+v_age2
+14
+2021 - v_year2
 7
 0
 1
-13
-v_Age = v_Bge
+15
+v_age1 = v_age2
 7
 0
 1
-13
-v_Age > v_Bge
+15
+v_age1 > v_age2
 4
 1
-111
-"Person B is " ,v_Bge, " years old; and Person A " ,v_Age, " is years old. So; Person B is older than Person A"
-13
-4
-1
-111
-"Person A is " ,v_Age, " years old; and Person B " ,v_Bge, " is years old. So; Person A is older than Person B"
-13
+113
+"Person B is " ,v_age2, " years old; and Person A " ,v_age1, " is years old. So; Person B is older than Person A"
 13
 4
 1
-118
-"Person B is " ,v_Age, " years old; and Person A " ,v_Bge, " is years old. So Person A and Person B are the same age."
+113
+"Person A is " ,v_age1, " years old; and Person B " ,v_age2, " is years old. So; Person A is older than Person B"
 13
 13
-6
-1
-5
-v_Age
-19
-2021 - v_yearbirthA
-4
-1
-119
-"ERR: The age of Person B is wrong; but this software can calculate the age of Person A; that is" ,v_Age, " years old."
-13
-13
-7
-0
-1
-19
-v_yearbirthB > 2021
-6
-1
-6
-v_ageB
-19
-2021 - v_yearbirthA
 4
 1
 120
-"ERR: The age of Person A is wrong; but this software can calculate the age of Person B; that is", v_ageB ," years old."
+"Person B is " ,v_age1, " years old; and Person A " ,v_age2, " is years old. So Person A and Person B are the same age."
+13
+13
+6
+1
+6
+v_age1
+14
+2021 - v_year1
+4
+1
+121
+"ERR: The age of Person B is wrong; but this software can calculate the age of Person A; that is " ,v_age1, " years old."
+13
+13
+7
+0
+1
+14
+v_year2 > 2021
+6
+1
+6
+v_age2
+14
+2021 - v_year2
+4
+1
+119
+"ERR: The age of Person A is wrong; but this software can calculate the age of Person B; that is ",v_age2," years old."
 13
 4
 1
-26
-"ERR: Both ages are wrong"
+22
+"Both ages are wrong."
 13
 13
 1

@@ -6,36 +6,35 @@
 0
 4
 1
-147
-"AGESOFT V-1.0
-Maker - Jorge Daniel Ramírez Nieves
-
-This software use the year of birth to calculate age of a person.
-
-Type the year of birth"
-5
-1
-11
-v_yearbirth
-7
-1
-1
-18
-v_yearbirth > 2021
+50
+"AGESOFT V1.0. Maker: Jorge Daniel Ramírez Nieves"
 4
 1
-78
-"ERR: Wait. That year isn't valid; the year of birth should be less than 2021"
+88
+"This software use the year of birth to calculate age of person. Type the year of birth"
+5
+1
+6
+v_year
+7
+0
+1
 13
+v_year > 2021
 6
 1
 5
 v_age
-16
-2021-v_yearbirth
+13
+2021 - v_year
 4
 1
-34
-"Your age is: ",v_age," years old"
+30
+"The age of person is: ",v_age
+13
+4
+1
+74
+"ERROR! This year isn't valid. The year of birth should be less than 2021"
 13
 1

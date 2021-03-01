@@ -6,27 +6,40 @@
 0
 4
 1
-129
-"SOFT-SUM V1.0
-
-Maker: Jorge Daniel Ramírez Nieves
-
-This software can calculate a sum by three numbers
-
-Put 1° number: "
-
-
-
-5
-1
-1
-a
+51
+"SUM-SOFT V1.0. Maker: Jorge Daniel Ramírez Nieves"
 4
 1
-17
-"Input 2° number"
+74
+"This software calculate a sum by three numbers. Enter the first number: "
 5
 1
+4
+v_n1
+4
 1
-b
+27
+"Enter the second number: "
+5
+1
+4
+v_n2
+4
+1
+27
+"Enter the second number: "
+5
+1
+4
+v_n3
+6
+1
+8
+v_ntotal
+14
+v_n1+v_n2+v_n3
+4
+1
+23
+"The sum is: ",v_ntotal
 1

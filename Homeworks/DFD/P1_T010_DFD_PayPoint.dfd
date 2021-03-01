@@ -40,6 +40,11 @@ v_cproduct
 1
 10
 v_dproduct
+7
+0
+1
+72
+v_aproduct <= 0 OR v_bproduct <= 0 OR v_cproduct <= 0 OR v_dproduct <= 0
 6
 3
 12
@@ -62,4 +67,171 @@ v_totalnoiva + v_iva
 1
 93
 "IVA 19%: ",v_iva," . Total to pay without IVA: ",v_totalnoiva, ". Total to pay: ",v_totaliva
+13
+7
+0
+1
+15
+v_aproduct <= 0
+7
+0
+1
+15
+v_bproduct <= 0
+7
+0
+1
+15
+v_cproduct <= 0
+7
+0
+1
+15
+v_dproduct <= 0
+13
+4
+1
+60
+"Only the fourth product is wrong. Please; check the values"
+13
+13
+7
+0
+1
+15
+v_dproduct <= 0
+4
+1
+59
+"Only the third product is wrong. Please; check the values"
+13
+4
+1
+64
+"First and Second product are correct. Please; check the values"
+13
+13
+13
+7
+0
+1
+15
+v_cproduct <= 0
+7
+0
+1
+15
+v_dproduct <= 0
+4
+1
+60
+"Only the second product is wrong. Please; check the values"
+13
+4
+1
+64
+"First and Third  product are correct. Please; check the values"
+13
+13
+7
+0
+1
+15
+v_dproduct <= 0
+4
+1
+64
+"First and Fourth product are correct. Please; check the values"
+13
+4
+1
+59
+"Only the first product is valid. Please; check the values"
+13
+13
+13
+13
+7
+0
+1
+15
+v_bproduct <= 0
+7
+0
+1
+15
+v_cproduct <= 0
+7
+0
+1
+15
+v_dproduct <= 0
+4
+1
+59
+"Only the first product is wrong. Please; check the values"
+13
+4
+1
+64
+"Second and Third product are correct. Please; check the values"
+13
+13
+7
+0
+1
+15
+v_dproduct <= 0
+4
+1
+65
+"Second and Fourth product are correct. Please; check the values"
+13
+4
+1
+62
+"Only the second product is correct. Please; check the values"
+13
+13
+13
+7
+0
+1
+15
+v_cproduct <= 0
+7
+0
+1
+15
+v_dproduct <= 0
+4
+1
+64
+"Third and Fourth product are correct. Please; check the values"
+13
+4
+1
+61
+"Only the third product is correct. Please; check the values"
+13
+13
+7
+0
+1
+15
+v_dproduct <= 0
+4
+1
+62
+"Only the fourth product is correct. Please; check the values"
+13
+4
+1
+31
+"ERROR - All values are wrong."
+13
+13
+13
+13
+13
 1
