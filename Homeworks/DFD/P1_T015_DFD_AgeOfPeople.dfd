@@ -1,0 +1,93 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+63
+"AgeOfPeople-Software V1.0. Maker: Jorge Daniel Ramírez Nieves"
+4
+1
+111
+"The software determines according to your age if you are child; adolescent; adult; older adult or a matusalen"
+4
+1
+16
+"Type your age:"
+5
+1
+5
+v_age
+7
+0
+1
+7
+v_age<0
+7
+0
+1
+21
+v_age>=0 AND v_age<13
+7
+0
+1
+22
+v_age>=13 AND v_age<19
+7
+0
+1
+22
+v_age>=19 AND v_age<46
+7
+0
+1
+22
+v_age>=46 AND v_age<90
+7
+0
+1
+9
+v_age>=90
+4
+1
+42
+"ERROR: The algorithm have something rare"
+13
+4
+1
+20
+"You're a matusalen"
+13
+13
+4
+1
+23
+"You're an older adult"
+13
+13
+4
+1
+17
+"You're an adult"
+13
+13
+4
+1
+22
+"You're an adolescent"
+13
+13
+4
+1
+16
+"You're a child"
+13
+13
+4
+1
+51
+"Does you even exist or haven't you been born yet?"
+13
+1

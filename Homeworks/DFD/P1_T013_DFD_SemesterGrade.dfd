@@ -1,0 +1,226 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+65
+"SemesterGrade-Software V1.0. Maker: Jorge Daniel Ramírez Nieves"
+4
+1
+190
+"The algorithm will take four student's grades in the semester. 1st Exam is equals to 20% of the final grade; 2nd and 3rd Exam are equal to 25% and 4th exam 30%. Only grades between 0 and 5"
+4
+1
+22
+"Insert the 1st grade"
+5
+1
+8
+v_grade1
+4
+1
+22
+"Insert the 2nd grade"
+5
+1
+8
+v_grade2
+4
+1
+22
+"Insert the 3rd grade"
+5
+1
+8
+v_grade3
+4
+1
+22
+"Insert the 4th grade"
+5
+1
+8
+v_grade4
+7
+0
+1
+31
+v_grade1 >= 0 AND v_grade1 <= 5
+7
+0
+1
+31
+v_grade2 >= 0 AND v_grade2 <= 5
+7
+0
+1
+31
+v_grade3 >= 0 AND v_grade3 <= 5
+7
+0
+1
+31
+v_grade4 >= 0 AND v_grade4 <= 5
+4
+1
+28
+"ERR: All values are wrong" 
+13
+4
+1
+48
+"Only fourth grade is correct in the algorithm" 
+13
+13
+7
+0
+1
+31
+v_grade4 >= 0 AND v_grade4 <= 5
+4
+1
+47
+"Only third grade is correct in the algorithm" 
+13
+4
+1
+52
+"First and second grade are wrong in the algorithm" 
+13
+13
+13
+7
+0
+1
+31
+v_grade3 >= 0 AND v_grade3 <= 5
+7
+0
+1
+31
+v_grade4 >= 0 AND v_grade4 <= 5
+4
+1
+48
+"Only second grade is correct in the algorithm" 
+13
+4
+1
+51
+"First and third grade are wrong in the algorithm" 
+13
+13
+7
+0
+1
+31
+v_grade4 >= 0 AND v_grade4 <= 5
+4
+1
+52
+"First and fourth grade are wrong in the algorithm" 
+13
+4
+1
+40
+"First grade is wrong in the algorithm" 
+13
+13
+13
+13
+7
+0
+1
+31
+v_grade2 >= 0 AND v_grade2 <= 5
+7
+0
+1
+31
+v_grade3 >= 0 AND v_grade3 <= 5
+7
+0
+1
+31
+v_grade4 >= 0 AND v_grade4 <= 5
+4
+1
+47
+"Only first grade is correct in the algorithm" 
+13
+4
+1
+52
+"Second and third grade are wrong in the algorithm" 
+13
+13
+7
+0
+1
+31
+v_grade4 >= 0 AND v_grade4 <= 5
+4
+1
+53
+"Second and fourth grade are wrong in the algorithm" 
+13
+4
+1
+41
+"Second grade is wrong in the algorithm" 
+13
+13
+13
+7
+0
+1
+31
+v_grade3 >= 0 AND v_grade3 <= 5
+7
+0
+1
+31
+v_grade4 >= 0 AND v_grade4 <= 5
+4
+1
+52
+"Thrid and fourth grade are wrong in the algorithm" 
+13
+4
+1
+40
+"Third grade is wrong in the algorithm" 
+13
+13
+7
+0
+1
+31
+v_grade4 >= 0 AND v_grade4 <= 5
+4
+1
+41
+"Fourth grade is wrong in the algorithm" 
+13
+6
+1
+7
+v_total
+61
+(v_grade1*0.2)+(v_grade2*0.25)+(v_grade3*0.25)+(v_grade4*0.3)
+4
+1
+111
+"First Grade: ",v_grade1,". Second Grade: ",v_grade2,". Third Grade: ",v_grade3,". Fourth Grade: ",v_grade4,"."
+4
+1
+30
+"The Final grade is: ",v_total
+13
+13
+13
+13
+1

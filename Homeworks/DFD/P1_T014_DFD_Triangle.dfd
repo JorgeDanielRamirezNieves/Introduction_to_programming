@@ -1,0 +1,93 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+"Triangle-Software V1.0. Maker: Jorge Daniel Ramírez Nieves"
+4
+1
+101
+"This program can calculate the hypotenuse or cathetus of a triangle. You can decide the procediment"
+4
+1
+87
+"Do you want calculate a hypotenuse? Type 1. Do you want calculate a cathetus? Type 2."
+5
+1
+1
+a
+7
+0
+1
+3
+a=1
+7
+0
+1
+3
+a=2
+4
+1
+33
+"ERROR: You can only type 1 or 2"
+13
+4
+1
+30
+"Type the value of Cathetus 1"
+5
+1
+11
+v_cathetus1
+4
+1
+30
+"Type the value of hypotenuse"
+5
+1
+12
+v_hypotenuse
+6
+1
+11
+v_cathetus2
+38
+sqrt((v_hypotenuse^2)-(v_cathetus1^2))
+4
+1
+40
+"The value of cathetus is: ",v_cathetus2
+13
+13
+4
+1
+30
+"Type the value of Cathetus 1"
+5
+1
+11
+v_cathetus1
+4
+1
+30
+"Type the value of Cathetus 2"
+5
+1
+11
+v_cathetus2
+6
+1
+12
+v_hypotenuse
+37
+sqrt((v_cathetus1^2)+(v_cathetus2^2))
+4
+1
+43
+"The value of hypotenuse is: ",v_hypotenuse
+13
+1

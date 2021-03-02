@@ -1,0 +1,126 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+"WEEKDAY-Software V1.0 - Maker: Jorge Daniel Ramírez Nieves"
+4
+1
+118
+"This software will receive a whole number between 1 and 7. After that; the algorithm will show you a day of the week"
+4
+1
+21
+"Type a whole number"
+5
+1
+8
+v_number
+7
+0
+1
+12
+v_number < 1
+7
+0
+1
+12
+v_number = 1
+7
+0
+1
+12
+v_number = 2
+7
+0
+1
+12
+v_number = 3
+7
+0
+1
+12
+v_number = 4
+7
+0
+1
+12
+v_number = 5
+7
+0
+1
+12
+v_number = 6
+7
+0
+1
+12
+v_number = 7
+7
+0
+1
+12
+v_number > 7
+4
+1
+70
+"Sorry. The software can't run the programm; the number isn't integer"
+13
+4
+1
+71
+"Sorry. The software can't run the programm; the number is more than 1"
+13
+13
+4
+1
+35
+"The number corresponds to: Sunday"
+13
+13
+4
+1
+37
+"The number corresponds to: Saturday"
+13
+13
+4
+1
+35
+"The number corresponds to: Friday"
+13
+13
+4
+1
+37
+"The number corresponds to: Thuesday"
+13
+13
+4
+1
+38
+"The number corresponds to: Wednesday"
+13
+13
+4
+1
+36
+"The number corresponds to: Tuesday"
+13
+13
+4
+1
+35
+"The number corresponds to: Monday"
+13
+13
+4
+1
+71
+"Sorry. The software can't run the programm; the number is less than 1"
+13
+1
