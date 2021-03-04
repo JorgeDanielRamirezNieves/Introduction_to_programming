@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+61
+"NumberEvenOrOdd-Software V1.0 - Jorge Daniel Ramírez Nieves"
+4
+1
+73
+"The algorithm can indicates if a number is even or odd. Type the number"
+5
+1
+4
+v_n1
+7
+0
+1
+8
+v_n1 = 0
+7
+0
+1
+14
+v_n1 mod 2 = 0
+7
+0
+1
+33
+v_n1 mod 2 > 0 AND v_n1 mod 2 < 1
+7
+0
+1
+14
+v_n1 mod 2 = 1
+7
+0
+1
+14
+v_n1 mod 2 > 1
+13
+4
+1
+36
+"Decimal numbers aren't even or odd"
+13
+13
+4
+1
+15
+v_n1,"  is odd"
+13
+13
+4
+1
+36
+"Decimal numbers aren't even or odd"
+13
+13
+4
+1
+16
+v_n1,"  is even"
+13
+13
+4
+1
+21
+"0 isn't even or odd"
+13
+1

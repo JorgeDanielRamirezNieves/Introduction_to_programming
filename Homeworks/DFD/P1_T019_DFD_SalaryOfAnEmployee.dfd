@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+71
+"SalaryOfAnEmployee-Software V1.0 - Maker: Jorge Daniel Ramírez Nieves"
+4
+1
+128
+"The algorithm calculates the salary to be paid by an employee in days according to the monthly salary. Type the monthly salary"
+5
+1
+9
+v_msalary
+4
+1
+26
+"Days the employee worked"
+5
+1
+6
+v_days
+7
+0
+1
+13
+v_msalary < 0
+7
+0
+1
+27
+v_days >= 0 AND v_days <=30
+4
+1
+55
+"ERR: The number of worker days isn't between 0 and 30"
+13
+6
+1
+8
+v_salary
+21
+(v_msalary/30)*v_days
+4
+1
+50
+"The salary of the employee is: ",v_salary," COP."
+13
+13
+7
+0
+1
+27
+v_days >= 0 AND v_days <=30
+4
+1
+94
+"ERR: Does the employee pay to work? And the number of worker days isn't between 0 and 30 ;-;"
+13
+4
+1
+41
+"ERR: Does the employee pay to work? ;-;"
+13
+13
+1

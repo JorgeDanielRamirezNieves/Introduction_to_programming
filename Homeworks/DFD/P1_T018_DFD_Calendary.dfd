@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+61
+"Calendar-Software V1.0 - Maker: Jorge Daniel Ramírez Nieves"
+4
+1
+126
+"The algorithm indicates how many days has a month according to the number put in the program. Type a number between 1 and 12"
+5
+1
+8
+v_number
+7
+0
+1
+27
+v_number <1 AND v_number>12
+7
+0
+1
+110
+v_number = 1 OR v_number = 3 OR v_number = 5 OR v_number = 7 OR v_number = 8 OR v_number = 10 OR v_number = 12
+7
+0
+1
+61
+v_number = 4 OR v_number = 6 OR v_number = 9 OR v_number = 11
+7
+0
+1
+12
+v_number = 2
+4
+1
+25
+"ERR: Only whole numbers"
+13
+4
+1
+61
+"That month has 28 days. In leap-years; February has 29 days"
+13
+13
+4
+1
+24
+"That month has 30 days"
+13
+13
+4
+1
+24
+"That month has 31 days"
+13
+13
+4
+1
+48
+"ERR: The number isn't within the allowed range"
+13
+1

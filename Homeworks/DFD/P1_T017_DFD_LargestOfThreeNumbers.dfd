@@ -1,0 +1,105 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+67
+"LargestOfThreeNumbers-Software V1.0 - Jorge Daniel Ramírez Nieves"
+4
+1
+86
+"This software determine which is the largest of three numbers. Type the first number"
+5
+1
+4
+v_n1
+4
+1
+24
+"Type the second number"
+5
+1
+4
+v_n2
+4
+1
+23
+"Type the third number"
+5
+1
+4
+v_n3
+7
+0
+1
+23
+v_n1=v_n2 AND v_n1=v_n3
+7
+0
+1
+11
+v_n1 > v_n2
+7
+0
+1
+11
+v_n1 > v_n3
+7
+0
+1
+11
+v_n2 > v_n3
+4
+1
+29
+v_n3," is the largest number"
+13
+4
+1
+29
+v_n2," is the largest number"
+13
+13
+4
+1
+29
+v_n2," is the largest number"
+13
+13
+7
+0
+1
+11
+v_n2 > v_n3
+7
+0
+1
+11
+v_n1 > v_n3
+4
+1
+29
+v_n3," is the largest number"
+13
+4
+1
+29
+v_n1," is the largest number"
+13
+13
+4
+1
+29
+v_n1," is the largest number"
+13
+13
+13
+4
+1
+26
+"The numbers are the same"
+13
+1
