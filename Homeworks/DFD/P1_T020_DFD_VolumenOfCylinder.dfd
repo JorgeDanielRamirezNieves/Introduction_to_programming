@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+66
+"VolumenOfCylinder-SOFT V1.0 - Maker: Jorge Daniel Ramírez Nieves"
+4
+1
+111
+"The algorithm can calculates the volume of a cylinder knowing the radius and height. Type the value of radius"
+5
+1
+8
+v_radius
+4
+1
+26
+"Type the value of height"
+5
+1
+8
+v_height
+6
+2
+9
+v_volumen
+23
+(v_radius^2)*(v_height)
+11
+v_volumenPI
+16
+3.1416*v_volumen
+4
+1
+65
+"The volume of this cylinder is: ",v_volumen,"pi or ",v_volumenPI
+1
