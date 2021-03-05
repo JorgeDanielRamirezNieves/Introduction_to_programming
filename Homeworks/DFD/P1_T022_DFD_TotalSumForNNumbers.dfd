@@ -1,0 +1,78 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+67
+"TotalSumForNNumbers-Soft V1.0 - Maker Jorge Daniel Ramírez Nieves"
+4
+1
+94
+"This software calculates the sumatory and the average for N numbers. Type the total numbers:"
+5
+1
+10
+v_totalnum
+7
+0
+1
+15
+v_totalnum <= 0
+6
+2
+5
+v_sum
+1
+0
+9
+v_average
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+10
+v_totalnum
+1
+1
+1
+4
+1
+26
+"Input the number ",i,": "
+5
+1
+5
+v_num
+6
+1
+5
+v_sum
+11
+v_sum+v_num
+10
+6
+1
+9
+v_average
+18
+(v_sum)/v_totalnum
+4
+1
+81
+"For ",v_totalnum," numbers; the sum is: ",v_sum," and the average is ",v_average
+13
+4
+1
+38
+"ERR: The total numbers should be > 0"
+13
+1

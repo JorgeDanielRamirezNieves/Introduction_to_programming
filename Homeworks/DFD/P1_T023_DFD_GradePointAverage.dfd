@@ -1,0 +1,126 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+65
+"GradePointAverage-SOFT V1.0 - Maker Jorge Daniel Ramírez Nieves"
+4
+1
+180
+"The algorithm calculate the average grade of the course with 3 grades per student. The 1st grade is the 20% of average grade; 2nd grade is the 30% and the third grade is the 50%."
+4
+1
+32
+"Input the number of students: "
+5
+1
+13
+v_numstudents
+7
+0
+1
+17
+v_numstudents < 0
+7
+0
+1
+17
+v_numstudents = 0
+6
+1
+9
+v_average
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+13
+v_numstudents
+1
+1
+1
+4
+1
+23
+"Student number ",i,"."
+4
+1
+23
+"Type the first grade:"
+5
+1
+8
+v_grade1
+4
+1
+24
+"Type the second grade:"
+5
+1
+8
+v_grade2
+4
+1
+23
+"Type the third grade:"
+5
+1
+8
+v_grade3
+7
+0
+1
+44
+v_grade1 < 0 OR v_grade2 < 0 OR v_grade3 < 0
+6
+1
+9
+v_average
+56
+v_average+((v_grade1*0.2)+(v_grade2*0.3)+(v_grade3*0.5))
+13
+4
+1
+64
+"The grades of the student ",i," isn't valid. Please, try again"
+6
+1
+1
+i
+3
+i-1
+13
+10
+6
+1
+15
+v_courseaverage
+23
+v_average/v_numstudents
+4
+1
+53
+"The average grade of the curse is: ",v_courseaverage
+13
+4
+1
+47
+"Congratulations; the curse have 0 students :b"
+13
+13
+4
+1
+43
+"ERR: The number of students should be > 0"
+13
+1

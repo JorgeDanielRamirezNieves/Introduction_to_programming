@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+65
+"ShowNNumbers-Software V1.0 - Maker: Jorge Daniel Ramírez Nieves"
+4
+1
+26
+"Type a positive number: "
+5
+1
+15
+v_total_numbers
+7
+0
+1
+19
+v_total_numbers > 0
+4
+1
+32
+"ERR: The number isn't positive"
+13
+8
+1
+1
+i
+1
+1
+1
+1
+15
+v_total_numbers
+1
+1
+1
+4
+1
+25
+"The number cycle is: ",i
+10
+13
+1
