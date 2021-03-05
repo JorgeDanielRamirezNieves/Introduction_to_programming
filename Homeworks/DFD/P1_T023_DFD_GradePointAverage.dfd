@@ -51,32 +51,12 @@ v_numstudents
 1
 4
 1
-23
-"Student number ",i,"."
-4
-1
-23
-"Type the first grade:"
+42
+"Type the grades of Student Number ",i,":"
 5
 1
-8
-v_grade1
-4
-1
-24
-"Type the second grade:"
-5
-1
-8
-v_grade2
-4
-1
-23
-"Type the third grade:"
-5
-1
-8
-v_grade3
+26
+v_grade1,v_grade2,v_grade3
 7
 0
 1
