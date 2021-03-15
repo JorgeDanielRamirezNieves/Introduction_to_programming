@@ -1,0 +1,299 @@
+ Dfd (c)
+1
+1
+3
+0
+0
+4
+1
+60
+"GameCold&Hot-Soft V1.0. Maker: Jorge Daniel Ramírez Nieves"
+12
+1
+15
+P_VERIFICATION1
+0
+12
+1
+20
+P_RANDOMVERIFICATION
+0
+1
+2
+1
+15
+P_VERIFICATION1
+0
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+1
+1
+1
+1
+4
+1
+153
+"The software will choose a randome number bewteen 0 and 100; and you; the player; you will try to guess by means of proximity. You've only 10 attempts!"
+4
+1
+75
+"Very Cold [+30]; Cold [15 - 30]; Warm [10-15]; Hot [10-5]; Very Hot [5-1]"
+4
+1
+41
+"Do you understand? [1 -> Yes] [2 -> No]"
+5
+1
+15
+v_confirmation1
+7
+0
+1
+19
+v_confirmation1 = 2
+7
+0
+1
+20
+v_confirmation1 = 16
+13
+4
+1
+15
+"Peeka-boo non"
+6
+1
+1
+i
+3
+i-1
+13
+13
+6
+1
+1
+i
+3
+i-1
+13
+10
+3
+2
+1
+20
+P_RANDOMVERIFICATION
+0
+0
+6
+3
+8
+v_random
+1
+0
+8
+v_random
+11
+random(100)
+12
+v_difference
+1
+0
+6
+1
+8
+v_atempt
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+2
+10
+1
+1
+1
+4
+1
+33
+"Atempt N",i," - Type a number: "
+5
+1
+3
+v_n
+7
+0
+1
+15
+v_n >= v_random
+6
+2
+12
+v_difference
+13
+v_random-v_n 
+8
+v_atempt
+4
+10-i
+7
+0
+1
+17
+v_difference > 30
+7
+0
+1
+40
+v_difference >= 15 AND v_difference <=30
+7
+0
+1
+39
+v_difference >= 10 AND v_difference <15
+7
+0
+1
+38
+v_difference >= 5 AND v_difference <10
+7
+0
+1
+36
+v_difference >=1 AND v_difference <5
+13
+4
+1
+50
+"You are very close! You have ",i," opportunities"
+13
+13
+4
+1
+45
+"You are close! You have ",i," opportunities"
+13
+13
+4
+1
+44
+"You are warm! You have ",i," opportunities"
+13
+13
+4
+1
+44
+"You are cold! You have ",i," opportunities"
+13
+13
+4
+1
+49
+"You are very cold! You have ",i," opportunities"
+13
+13
+6
+1
+12
+v_difference
+14
+v_n - v_random
+7
+0
+1
+16
+v_difference = 0
+7
+0
+1
+17
+v_difference > 30
+7
+0
+1
+40
+v_difference >= 15 AND v_difference <=30
+7
+0
+1
+39
+v_difference >= 10 AND v_difference <15
+7
+0
+1
+38
+v_difference >= 5 AND v_difference <10
+7
+0
+1
+36
+v_difference >=1 AND v_difference <5
+13
+4
+1
+50
+"You are very close! You have ",i," opportunities"
+13
+13
+4
+1
+45
+"You are close! You have ",i," opportunities"
+13
+13
+4
+1
+44
+"You are warm! You have ",i," opportunities"
+13
+13
+4
+1
+44
+"You are cold! You have ",i," opportunities"
+13
+13
+4
+1
+49
+"You are very cold! You have ",i," opportunities"
+13
+13
+4
+1
+10
+"You won!"
+4
+1
+11
+"... Maybe"
+4
+1
+11
+"Or I won?"
+4
+1
+30
+"Ah sorry; my bad. You won xd"
+6
+1
+1
+i
+2
+11
+13
+13
+10
+3

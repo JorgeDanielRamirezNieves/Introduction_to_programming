@@ -1,0 +1,122 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+81
+"MinorsAndGreaterPeople V1.0 - Maker: Daniel Bernal; Felipe López; Jorge Ramírez"
+4
+1
+121
+"The software prints how many people are minors and how many are of legal age. Type the number of people that you want: "
+8
+1
+1
+j
+1
+1
+1
+1
+1
+1
+1
+1
+1
+5
+1
+13
+v_totalperson
+7
+0
+1
+18
+v_totalperson <= 0
+6
+2
+8
+v_minors
+1
+0
+8
+v_adults
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+13
+v_totalperson
+1
+1
+1
+4
+1
+46
+"Number ",i,": Type the age of person ",i,": "
+5
+1
+5
+v_age
+7
+0
+1
+11
+v_age >= 18
+7
+0
+1
+9
+v_age < 0
+6
+1
+8
+v_minors
+12
+v_minors + 1
+13
+4
+1
+61
+"ERR: The age of person ",i," isn't valid; type a number > 0"
+6
+1
+1
+i
+3
+i-1
+13
+13
+6
+1
+8
+v_adults
+10
+v_adults+1
+13
+10
+4
+1
+105
+"The numbers of minors register are: ",v_minors," and the number of people with legal age are: ",v_adults
+13
+4
+1
+64
+"ERR: The number of people isn't valid; the value should be > 0"
+6
+1
+1
+j
+3
+j-1
+13
+10
+1

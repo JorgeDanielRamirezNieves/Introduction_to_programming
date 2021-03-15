@@ -1,0 +1,80 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+56
+"SOFTLOWER100 V1.0 - Maker: Jorge Daniel Ramírez Nieves"
+4
+1
+79
+"This software calculates the sum and the average for number greather than 100"
+6
+3
+5
+v_sum
+1
+0
+9
+v_average
+1
+0
+7
+v_total
+1
+0
+4
+1
+17
+"Type a number: "
+5
+1
+3
+v_n
+6
+2
+7
+v_total
+13
+v_total + v_n
+1
+i
+1
+1
+9
+1
+9
+v_n > 100
+4
+1
+17
+"Type a number: "
+5
+1
+3
+v_n
+6
+2
+7
+v_total
+13
+v_total + v_n
+1
+i
+3
+i+1
+11
+6
+1
+9
+v_average
+11
+v_total / i
+4
+1
+57
+"The sum is: ",v_total, " and the average is: ",v_average
+1

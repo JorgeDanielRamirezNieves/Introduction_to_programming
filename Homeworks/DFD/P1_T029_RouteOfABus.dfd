@@ -1,0 +1,151 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+61
+"RouteOfABus-Soft Ver1.0. Maker: Jorge Daniel Ramírez Nieves"
+4
+1
+152
+"The algorithm calculates how much money was obtained on a bus if each ticket is worth $150 and N passangers get on and off. Type the numbers of stop: "
+5
+1
+6
+v_stop
+8
+1
+1
+i
+1
+1
+1
+1
+6
+v_stop
+1
+1
+1
+6
+3
+17
+v_totalpassengers
+1
+0
+13
+v_sustraction
+1
+0
+14
+v_passengersgo
+1
+0
+7
+0
+1
+5
+i = 1
+4
+1
+44
+"Stop N°",i," - How many passangers get on?"
+5
+1
+13
+v_passengersA
+4
+1
+45
+"Stop N°",i," - How many passangers get off?"
+5
+1
+13
+v_passengersB
+6
+3
+17
+v_totalpassengers
+33
+v_totalpassengers + v_passengersA
+13
+v_sustraction
+33
+v_totalpassengers - v_passengersB
+14
+v_passengersgo
+28
+v_passengersgo+v_passengersB
+7
+0
+1
+17
+v_sustraction < 0
+13
+4
+1
+139
+"ERR: The system will restart this attempt because the number of passengers that got off the bus is more than the internal number possible"
+6
+3
+17
+v_totalpassengers
+33
+v_totalpassengers + v_passengersB
+1
+i
+3
+i-1
+14
+v_passengersgo
+28
+v_passengersgo-v_passengersB
+13
+13
+4
+1
+44
+"Stop N°",i," - How many passangers get on?"
+5
+1
+13
+v_passengersA
+6
+2
+17
+v_totalpassengers
+33
+v_totalpassengers + v_passengersA
+13
+v_passengersB
+1
+0
+6
+3
+17
+v_totalpassengers
+33
+v_totalpassengers + v_passengersA
+13
+v_sustraction
+33
+v_totalpassengers - v_passengersB
+14
+v_passengersgo
+28
+v_passengersgo+v_passengersB
+13
+10
+6
+1
+7
+v_total
+18
+v_passengersgo*150
+4
+1
+42
+"Up to now; the total earned is: ",v_total
+1
