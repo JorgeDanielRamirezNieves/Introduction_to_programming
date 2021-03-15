@@ -78,7 +78,7 @@ P_RANDOMVERIFICATION
 0
 0
 6
-3
+2
 8
 v_random
 1
@@ -87,16 +87,6 @@ v_random
 v_random
 11
 random(100)
-12
-v_difference
-1
-0
-6
-1
-8
-v_atempt
-1
-0
 8
 1
 1
@@ -118,6 +108,11 @@ i
 1
 3
 v_n
+7
+0
+1
+20
+v_n < 0 OR v_n > 100
 7
 0
 1
@@ -279,6 +274,18 @@ i
 2
 11
 13
+13
+13
+4
+1
+51
+"ERR: Wait; the number should be between 0 and 100"
+6
+1
+1
+i
+3
+i-1
 13
 10
 3
