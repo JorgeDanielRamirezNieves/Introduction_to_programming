@@ -1,7 +1,7 @@
 package USTA.fis;
 /*Author: Jorge Daniel Ramírez Nieves
 Date: 16 / March / 2021
-Descritpion:This is for display an original figure on the screen*/
+Description:This is for display an original figure on the screen*/
 public class Main {
 
     public static void main(String[] args) {
