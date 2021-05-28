@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1449ffa7-a1c1-4dcd-a086-fec181469292" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../P1_T041_SegundoCortePrimerEjercicioVersión2/P1_T041_SegundoCortePrimerEjercicioVersión2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1_T050_JPOptionProject/src/co/edu/co/usta/tunja/window/dialog/TestDialogClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1_T[Final]_ProjectTriqui/src/co/edu/usta/multiclass/matrixtriqui/Logic/SoftTriqui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1_T[Final]_ProjectTriqui/src/co/edu/usta/multiclass/matrixtriqui/view/FormsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1sz51sqtLJZekNwatmeH8UGTdQO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/co/edu/usta/array/bus/logic/FormsArrays.java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.FormsView">
+    <configuration name="FormsArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edu.usta.array.bus.view.FormsArrays" />
+      <module name="untitled3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edu.usta.array.bus.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormsView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edu.usta.array.bus.view.FormsView" />
+      <module name="untitled3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edu.usta.array.bus.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FormsView" />
+        <item itemvalue="Application.FormsArrays" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1449ffa7-a1c1-4dcd-a086-fec181469292" name="Default Changelist" comment="" />
+      <created>1621862369559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621862369559</updated>
+    </task>
+    <servers />
+  </component>
+</project>
